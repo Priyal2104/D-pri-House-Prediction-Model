@@ -1,1 +1,0 @@
-# D-pri-House-Prediction-Model
